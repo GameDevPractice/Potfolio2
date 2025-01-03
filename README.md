@@ -9,3 +9,6 @@
 <br/>
 AI가 Perception Component를 이용하여 Player를 감지하고 사이의 거리에 따라 행동을 나누었습니다. <br/>
 
+### Character
+#### Player
+#### AI
